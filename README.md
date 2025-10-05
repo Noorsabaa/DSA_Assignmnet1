@@ -1,6 +1,8 @@
 # DSA_Assignmnet1
 This repository contains solutions to three DSA assignment problems implemented in C++ using object-oriented programming. Each problem is modular (.cpp and .h files) and hides internal implementation details.
 
+The header files (.h files) for all tasks were provided by the professor. Only the implementation files (.cpp files) are uploaded here.
+
  Problem Summaries
 
 1. Polynomial ADT
