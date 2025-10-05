@@ -5,7 +5,7 @@ The header files (.h files) for all tasks were provided by the professor. Only t
 
 Link to repository https://github.com/Noorsabaa/DSA_Assignmnet1
 
- Problem Summaries
+ **Problem Summaries**
 
 1. Polynomial ADT
 
@@ -38,7 +38,7 @@ Implements card effects like Skip, Reverse, and Draw Two with proper game logic.
 Handles deck shuffling, turn order, and ending conditions (win or no cards left).
 
 
- Challenges and Learnings
+ **Challenges and Learnings**
 1. Encapsulation Limits
 
 The provided header files couldn’t be edited, so internal variables had to be managed within the .cpp files.
